@@ -3,6 +3,11 @@
 
 #include <iostream>
 
+void function1()
+{
+    std::cout << ":)\n";
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
